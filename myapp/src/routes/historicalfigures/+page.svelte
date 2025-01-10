@@ -5,8 +5,6 @@
 
 <Header headingTitle="Historical Figures" />
 
-<Footer />
-
 <style>
 
 </style>

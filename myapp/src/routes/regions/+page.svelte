@@ -5,7 +5,6 @@
 
 <Header headingTitle="Regions" />
 
-<Footer />
 
 <style>
 

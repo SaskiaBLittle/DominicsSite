@@ -5,7 +5,6 @@
 
 <Header headingTitle="About/Contact" />
 
-<Footer />
 
 <style>
 

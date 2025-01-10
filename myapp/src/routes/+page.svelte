@@ -5,9 +5,6 @@
 </script>
 
 <Header headingTitle="HomePage" />
-<Navigation />
-
-<Footer />
 
 <style>
 

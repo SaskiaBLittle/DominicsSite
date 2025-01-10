@@ -5,7 +5,6 @@
 
 <Header headingTitle="Kingdoms" />
 
-<Footer />
 
 <style>
 
