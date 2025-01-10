@@ -4,7 +4,7 @@
     import Navigation from '$lib/Navigation.svelte';
 </script>
 
-<Header headingTitle="HomePage" />
+<Header headingTitle="11th Century Europe" />
 
 <style>
 
