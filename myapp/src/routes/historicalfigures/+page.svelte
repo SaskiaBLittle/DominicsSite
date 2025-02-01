@@ -6,8 +6,6 @@
 
 <Header headingTitle="Historical Figures" />
 
-<Psidebar />
-
 <style>
 
 </style>
