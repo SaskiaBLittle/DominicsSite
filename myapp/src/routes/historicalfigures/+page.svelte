@@ -6,6 +6,14 @@
 
 <Header headingTitle="Historical Figures" />
 
+<section>
+    <h3>Genral overview</h3>
+    <p>"Info here"</p>
+
+    <h3>Important notes</h3>
+    <p>"Info here"</p>
+</section>
+
 <style>
 
 </style>
